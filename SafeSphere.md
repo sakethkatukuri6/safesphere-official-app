@@ -1,10 +1,4 @@
-# SafeSphere — Emergency Orchestration Platform
-### Design & Technical Document
-**Version 4.0 · Two repos (backend lives inside `safesphere-client`) · OS-level native apps · UI stack not yet decided — backend-first build**
-**Lead Architect:** Katukuri Saketh
-**Institution:** Chaitanya Bharathi Institute of Technology
 
----
 ## Table of Contents
 1. Executive Summary
 2. Problem Restatement & Scope Boundaries (Current Phase: Backend-First)

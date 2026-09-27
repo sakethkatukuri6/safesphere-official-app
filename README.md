@@ -1,17 +1,3 @@
-# SafeSphere ΓÇö Emergency Orchestration Platform
-**Version 4.0 ┬╖ Two repos (backend lives inside this one) ┬╖ OS-level native apps ┬╖ UI stack TBD, backend-first**
-**Lead Architect:** Katukuri Saketh
-**Institution:** Chaitanya Bharathi Institute of Technology
-
----
-
-## What changed from v3.0
-
-v3.0 split the project into three repos (`safesphere-client`,
-`safesphere-official-app`, and a not-yet-created `safesphere-backend`) and
-made the backend pure Java. v4.0 keeps the pure-Java backend but makes
-three further changes, all direct team instructions:
-
 1. **Back to two repos.** There is no separate `safesphere-backend` repo.
    The Java backend (M4 Orchestrator, M6 Matcher, Agent Gateway) now lives
    **inside this repo**, in its own `backend/` folder, alongside the
