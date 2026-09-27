@@ -1,0 +1,31 @@
+com.safesphere.official.app-lifecycle-livedata-core-2.5.1-0 C:\Users\abcd\.gradle\caches\transforms-3\0e94c3b0722cb5e5ca2cd9f96679226b\transformed\lifecycle-livedata-core-2.5.1\res
+com.safesphere.official.app-transition-1.2.0-1 C:\Users\abcd\.gradle\caches\transforms-3\10cc75358ac290c781a1cdb7941e233c\transformed\transition-1.2.0\res
+com.safesphere.official.app-emoji2-1.2.0-2 C:\Users\abcd\.gradle\caches\transforms-3\1b53d3417733c88d370cd4b02bf81f5f\transformed\emoji2-1.2.0\res
+com.safesphere.official.app-lifecycle-process-2.4.1-3 C:\Users\abcd\.gradle\caches\transforms-3\1e5216194bbbc60863804f0860406617\transformed\lifecycle-process-2.4.1\res
+com.safesphere.official.app-core-1.9.0-4 C:\Users\abcd\.gradle\caches\transforms-3\260dd7aee80f1553309060818d627fde\transformed\core-1.9.0\res
+com.safesphere.official.app-appcompat-resources-1.6.1-5 C:\Users\abcd\.gradle\caches\transforms-3\352df99259004cfe51957243c179db9c\transformed\appcompat-resources-1.6.1\res
+com.safesphere.official.app-savedstate-1.2.0-6 C:\Users\abcd\.gradle\caches\transforms-3\51caad10c3ea2300e8f5a2c035dd0972\transformed\savedstate-1.2.0\res
+com.safesphere.official.app-emoji2-views-helper-1.2.0-7 C:\Users\abcd\.gradle\caches\transforms-3\6c1b6f577bafdc6307fda4a2d851a44a\transformed\emoji2-views-helper-1.2.0\res
+com.safesphere.official.app-core-ktx-1.9.0-8 C:\Users\abcd\.gradle\caches\transforms-3\7fee72d87b4d2d01c19c2798418a4ea8\transformed\core-ktx-1.9.0\res
+com.safesphere.official.app-coordinatorlayout-1.1.0-9 C:\Users\abcd\.gradle\caches\transforms-3\818a6e343b01405a9e3ebd7bb7efa87b\transformed\coordinatorlayout-1.1.0\res
+com.safesphere.official.app-fragment-1.3.6-10 C:\Users\abcd\.gradle\caches\transforms-3\860666df9b247d2650dec544858f0239\transformed\fragment-1.3.6\res
+com.safesphere.official.app-startup-runtime-1.1.1-11 C:\Users\abcd\.gradle\caches\transforms-3\86ab7884762d9088a1d9ba8a9a69be43\transformed\startup-runtime-1.1.1\res
+com.safesphere.official.app-activity-1.6.0-12 C:\Users\abcd\.gradle\caches\transforms-3\86fea76be8fd1d3a5058df7c14fe7052\transformed\activity-1.6.0\res
+com.safesphere.official.app-lifecycle-viewmodel-2.5.1-13 C:\Users\abcd\.gradle\caches\transforms-3\97a87f201b7f4e5c1b5117ea05278580\transformed\lifecycle-viewmodel-2.5.1\res
+com.safesphere.official.app-drawerlayout-1.1.1-14 C:\Users\abcd\.gradle\caches\transforms-3\a9a1e9049dc3cf2b8cae1a12b7c82e6b\transformed\drawerlayout-1.1.1\res
+com.safesphere.official.app-lifecycle-viewmodel-savedstate-2.5.1-15 C:\Users\abcd\.gradle\caches\transforms-3\af8e82f82e56f588fa6f5981f09aba92\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.safesphere.official.app-viewpager2-1.0.0-16 C:\Users\abcd\.gradle\caches\transforms-3\ca8d7a6860a7061a6c02476aae804914\transformed\viewpager2-1.0.0\res
+com.safesphere.official.app-annotation-experimental-1.3.0-17 C:\Users\abcd\.gradle\caches\transforms-3\d44f901233778986a66bf4c8541caeed\transformed\annotation-experimental-1.3.0\res
+com.safesphere.official.app-constraintlayout-2.1.4-18 C:\Users\abcd\.gradle\caches\transforms-3\d54ac1b364ce13b9fa380a99870b0b53\transformed\constraintlayout-2.1.4\res
+com.safesphere.official.app-lifecycle-runtime-2.5.1-19 C:\Users\abcd\.gradle\caches\transforms-3\d86870dd5ef8887821603e2711527c96\transformed\lifecycle-runtime-2.5.1\res
+com.safesphere.official.app-cardview-1.0.0-20 C:\Users\abcd\.gradle\caches\transforms-3\e6bf9f4c504d818a9b50f0308add13a7\transformed\cardview-1.0.0\res
+com.safesphere.official.app-material-1.9.0-21 C:\Users\abcd\.gradle\caches\transforms-3\ebc8c94a8c29853305af3885fda16f12\transformed\material-1.9.0\res
+com.safesphere.official.app-appcompat-1.6.1-22 C:\Users\abcd\.gradle\caches\transforms-3\efee3bd57a42fd20ce2c1834fa964107\transformed\appcompat-1.6.1\res
+com.safesphere.official.app-recyclerview-1.1.0-23 C:\Users\abcd\.gradle\caches\transforms-3\f9184e16c1a7505da8bc6a9aaf816836\transformed\recyclerview-1.1.0\res
+com.safesphere.official.app-pngs-24 D:\all projects\GIT CLONES\SAFESPHERE\v2\offlocal\safesphere-ofiical-app\mobile\app\build\generated\res\pngs\debug
+com.safesphere.official.app-resValues-25 D:\all projects\GIT CLONES\SAFESPHERE\v2\offlocal\safesphere-ofiical-app\mobile\app\build\generated\res\resValues\debug
+com.safesphere.official.app-packageDebugResources-26 D:\all projects\GIT CLONES\SAFESPHERE\v2\offlocal\safesphere-ofiical-app\mobile\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.safesphere.official.app-packageDebugResources-27 D:\all projects\GIT CLONES\SAFESPHERE\v2\offlocal\safesphere-ofiical-app\mobile\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.safesphere.official.app-merged_res-28 D:\all projects\GIT CLONES\SAFESPHERE\v2\offlocal\safesphere-ofiical-app\mobile\app\build\intermediates\merged_res\debug
+com.safesphere.official.app-debug-29 D:\all projects\GIT CLONES\SAFESPHERE\v2\offlocal\safesphere-ofiical-app\mobile\app\src\debug\res
+com.safesphere.official.app-main-30 D:\all projects\GIT CLONES\SAFESPHERE\v2\offlocal\safesphere-ofiical-app\mobile\app\src\main\res

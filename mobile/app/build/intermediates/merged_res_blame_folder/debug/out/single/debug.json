@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-merged_res-28:\\drawable_bg_blood_badge.xml.flat",
+        "source": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-main-30:\\drawable\\bg_blood_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-merged_res-28:\\drawable_bg_pill_green.xml.flat",
+        "source": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-main-30:\\drawable\\bg_pill_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-merged_res-28:\\drawable_bg_otp_required.xml.flat",
+        "source": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-main-30:\\drawable\\bg_otp_required.xml"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-merged_res-28:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-main-30:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-merged_res-28:\\drawable_bg_incident_header.xml.flat",
+        "source": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-main-30:\\drawable\\bg_incident_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-merged_res-28:\\drawable_bg_otp_input.xml.flat",
+        "source": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-main-30:\\drawable\\bg_otp_input.xml"
+    },
+    {
+        "merged": "com.safesphere.official.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.safesphere.official.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-main-30:\\layout\\activity_main.xml"
+    }
+]

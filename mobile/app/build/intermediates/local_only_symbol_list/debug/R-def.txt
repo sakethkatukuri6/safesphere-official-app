@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg_blood_badge
+drawable bg_incident_header
+drawable bg_otp_input
+drawable bg_otp_required
+drawable bg_pill_green
+drawable ic_launcher
+id btnSimulateCommand
+id btnSimulateField
+id btnSubmitOtp
+id cardIncident
+id etOtp
+id tvBloodType
+id tvIncidentId
+id tvModeStatus
+id tvVictimName
+layout activity_main
+string app_name

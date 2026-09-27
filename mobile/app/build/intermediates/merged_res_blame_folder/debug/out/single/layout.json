@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.safesphere.official.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.safesphere.official.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-mergeDebugResources-27:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\abcd\\.gradle\\daemon\\8.2\\com.safesphere.official.app-main-30:\\layout\\activity_main.xml"
+    }
+]
